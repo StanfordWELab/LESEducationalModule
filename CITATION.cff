@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Gorle
+    given-names: Catherine
+title: Introduction to LES for wind load calculations
+version: 1.0.0
+doi: 10.5281/zenodo.17798222
+url: https://github.com/StanfordWELab/LESEducationalModule
+date-released: 2025-12-02

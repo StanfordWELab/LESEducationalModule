@@ -1,6 +1,9 @@
 # LES EducationalModule
 
-This repository contains teaching material for an educational module on computational wind engineering (CWE) with a focus on the use of LES for wind loading calculation. The module takes about 150 minutes to teach and provides a basic introduction to the use of LES for wind load calculations. There are 5 slide decks, provided in .ppt and .pdf format. These slides can be used by the instructor during class time. Alternatively, a series of short 10-15 minute videos are available, covering the material in the slides.
+This project is archived on Zenodo and can be cited as:  
+[DOI: 10.5281/zenodo.17798221](https://doi.org/10.5281/zenodo.17798221)
+
+The repository releases teaching material for an educational module on computational wind engineering (CWE) with a focus on the use of LES for wind loading calculation. The module takes about 150 minutes to teach and provides a basic introduction to the use of LES for wind load calculations. There are 5 slide decks, provided in .ppt and .pdf format. These slides can be used by the instructor during class time. Alternatively, a series of short 10-15 minute videos are available, covering the material in the slides.
 
 
 Slide decks are intended to be taught in the following order:
